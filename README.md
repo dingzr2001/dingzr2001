@@ -49,9 +49,10 @@ Here are some ideas to get you started:
   <img alt="Hexo" src="https://img.shields.io/badge/-Hexo-4A4AFF?style=flat-square&logo=hexo&logoColor=white" />
 </p>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=radical)
 ### 📠 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=radical)
+
