@@ -19,12 +19,13 @@ Here are some ideas to get you started:
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
-![Static Badge](https://img.shields.io/badge/:badgeContent)
 ### 📧 Contact me: 
 <p>
-<img src="https://img.shields.io/static/v1?label=Program&message=Python&color=blue"/>
-<a href="mailto:dingzr2001@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=📬&color=red"/></a>
+<a href="mailto: dingzr2001@gmail.com>
+<img alt="Static Badge" src="https://img.shields.io/badge/Email-8A2BE2">
+dingzr2001@gmail.com
+</a>
 </p>
-
+[![Static Badge](https://img.shields.io/badge/Email-8A2BE2)](mailto: dingzr2001:gmail.com)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=radical)
