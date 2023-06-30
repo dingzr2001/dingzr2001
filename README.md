@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
-### 👔 I am currently: an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
+### 👔 I am currently: 
+&nbsp;&nbsp;&nbsp;&nbsp;an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
