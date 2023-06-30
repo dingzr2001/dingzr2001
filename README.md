@@ -1,5 +1,5 @@
 <p align="center">
- <img width="300px" src="https://cdn.pixabay.com/photo/2017/03/16/20/44/galaxy-2150186_1280.png" />
+ <img width="300px" src="https://cdn.pixabay.com/photo/2016/06/13/13/31/dog-1454225_1280.png" />
  <h1 align="center">Zhaorui Ding</h2>
  
 </p>
