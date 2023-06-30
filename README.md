@@ -1,6 +1,7 @@
 <p align="center">
  <img width="300px" src="https://cdn.pixabay.com/photo/2017/03/16/20/44/galaxy-2150186_1280.png" />
- <h2 align="center">Zhaorui Ding</h2>
+ <h1 align="center">Zhaorui Ding</h2>
+ 
 </p>
 
 <!--
@@ -17,12 +18,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
 ### 👔 I am currently:
 &nbsp;&nbsp;&nbsp;&nbsp;an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
-### I frequently use these tools:
+### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-0072E3?style=flat-square&logo=cplusplus&logoColor=white" />
@@ -38,7 +40,16 @@ Here are some ideas to get you started:
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-00A600?style=flat-square&logo=vuedotjs&logoColor=white" />
 </p>
 
-### 📧 Contact me: 
+- <p>Other:&nbsp;&nbsp;
+  <img alt="Git" src="https://img.shields.io/badge/-Git-FF2D2D?style=flat-square&logo=git&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-408080?style=flat-square&logo=mysql&logoColor=EA7500" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=0072E3" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML-AFAF61?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS-FF9D6F?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Hexo" src="https://img.shields.io/badge/-Hexo-4A4AFF?style=flat-square&logo=hexo&logoColor=white" />
+</p>
+
+### 📠 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
