@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👔 I am currently an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
+### 📖 I am learning and working on:
+- AI for bioinformatics
+- Indexing and partitioning of database(data lake)
+### Contact me via email: dingzr2001@gmail.com
+![](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=dark&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact)
