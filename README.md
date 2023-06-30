@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 ### 👔 I am currently:
-  an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
+&nbsp&nbspan undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
 ### 📧 Contact me: 
-  📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)
-  🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
+&nbsp&nbsp📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)\\
+&nbsp&nbsp🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
 </a>
 </p>
