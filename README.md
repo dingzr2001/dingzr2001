@@ -15,18 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👔 I am currently an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
+### 👔 I am currently:
+  an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
 ### 📧 Contact me: 
-> <p>
+  <p>
 📬 Email:
 <a href="mailto: dingzr2001@gmail.com">
 dingzr2001@gmail.com
 </a>
 </p>
-<p>
+  <p>
 🌐 Personal Website:
 <a href="https://dingzr2001.github.io">
 dingzr2001.github.io
