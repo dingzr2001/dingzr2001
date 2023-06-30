@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 👔 I am currently:
-  an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
+> an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
