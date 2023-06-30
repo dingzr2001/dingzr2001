@@ -20,12 +20,17 @@ Here are some ideas to get you started:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
 ### 📧 Contact me: 
-<p>
-> 📬 Email:
+> <p>
+📬 Email:
 <a href="mailto: dingzr2001@gmail.com">
 dingzr2001@gmail.com
 </a>
 </p>
-
+<p>
+🌐 Personal Website:
+<a href="https://dingzr2001.github.io">
+dingzr2001.github.io
+</a>
+</p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=radical)
