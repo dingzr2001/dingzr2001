@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Indexing and partitioning of database(data lake)
 ### 📧 Contact me: 
 <p>
-<a style="color:yellow;">Email</a>
+<font color="#666600">Email: </font>
 <a href="mailto: dingzr2001@gmail.com">
 dingzr2001@gmail.com
 </a>
