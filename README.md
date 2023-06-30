@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
 ### I frequently use these tools:
-- Programming language:<img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
-<img alt="C++" src="https://img.shields.io/badge/-C++-FFDC35?style=flat-square&logo=cplusplus&logoColor=white" />
-<img alt="Python" src="https://img.shields.io/badge/-Python-0072E3?style=flat-square&logo=python&logoColor=white" />
-
+- Programming language:
+<p>
+  <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/-C++-FFDC35?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-0072E3?style=flat-square&logo=python&logoColor=white" />
+</p>
 ### 📧 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
