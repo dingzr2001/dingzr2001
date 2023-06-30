@@ -26,7 +26,12 @@ Here are some ideas to get you started:
   <img alt="C++" src="https://img.shields.io/badge/-C++-0072E3?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFDC35?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF8000?style=flat-square&logo=java&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=yellow" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF60AF" />
+</p>
+- <p>
+  Framework:
+  <img alt="Gym" src="https://img.shields.io/badge/-Gym-FFBFFF?style=flat-square&logo=openaigym&logoColor=white" />
+  <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-D200D2?style=flat-square&logo=Pytorch&logoColor=orange" />
 </p>
 ### 📧 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
