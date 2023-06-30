@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - AI for bioinformatics
 - Indexing and partitioning of database(data lake)
 ![Static Badge](https://img.shields.io/badge/:badgeContent)
-### 📧 Contact me: <p><a href="dingzr2001@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=dingzr2001@gmail.com&color=blue"/></a></p>
+### 📧 Contact me: <p><a href="mailto:dingzr2001@gmail.com"><img src="https://img.shields.io/static/v1?label=Email&message=dingzr2001@gmail.com&color=blue"/></a></p>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=radical)
