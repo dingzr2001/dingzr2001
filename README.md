@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100px" src="https://cdn.pixabay.com/photo/2018/05/09/19/31/cat-3385968_1280.png" />
+ <img width="300px" src="https://cdn.pixabay.com/photo/2017/03/16/20/44/galaxy-2150186_1280.png" />
  <h2 align="center">Zhaorui Ding</h2>
 </p>
 
@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_1280.png)
 ### 👔 I am currently:
 &nbsp;&nbsp;&nbsp;&nbsp;an undergraduate in Department of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
