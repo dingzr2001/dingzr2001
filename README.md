@@ -28,11 +28,13 @@ Here are some ideas to get you started:
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF8000?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF60AF" />
 </p>
+
 - <p>Framework:
   <img alt="Gym" src="https://img.shields.io/badge/-Gym-FFBFFF?style=flat-square&logo=openaigym&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-D200D2?style=flat-square&logo=Pytorch&logoColor=orange" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-4F4F4F?style=flat-square&logo=tensorflow&logoColor=FFA042" />
 </p>
+
 ### 📧 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
