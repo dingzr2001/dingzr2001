@@ -54,4 +54,4 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&theme=transparent&hide=contribs)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&hide=contribs&bg_color=30,8600FF,000000&&title_color=FFE153&text_color=fff)
