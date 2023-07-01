@@ -53,5 +53,5 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
 &nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&theme=dark&layout=compact&hide=css,html)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&hide=contribs&bg_color=30,8600FF,000000&&title_color=FFE153&text_color=fff)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&bg_color=30,000000,9D9D9D&title_color=FFE153&text_color=fff&layout=compact&hide=css,html)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&hide=contribs&bg_color=30,9D9D9D,000000&&title_color=00CACA&text_color=fff)
