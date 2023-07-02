@@ -56,4 +56,4 @@ Here are some ideas to get you started:
 ### 🎨 My Status:
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dingzr2001&bg_color=30,000000,9D9D9D&title_color=FFE153&text_color=fff&layout=compact&card_width=400&hide=css,html)
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&hide=contribs&bg_color=30,9D9D9D,000000&&title_color=00CACA&text_color=fff)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=dingzr2001&show_icons=true&hide=contribs&bg_color=30,9D9D9D,000000&&title_color=00CACA&card_width=400&text_color=fff)
