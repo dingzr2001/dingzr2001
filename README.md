@@ -52,7 +52,8 @@ This is the GitHub account that I use for daily studies and recording.
 
 ### 📠 Contact me: 
 &nbsp;&nbsp;📬 Email: [dingzr2001@gmail.com](mailto:dingzr2001@gmail.com)<br/>
-&nbsp;&nbsp;🌐 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
+&nbsp;&nbsp;🌐 Personal Website: [zrdingpersonal.github.io](https://zrdingpersonal.github.io)
+&nbsp;&nbsp;🧩 Personal Website: [dingzr2001.github.io](https://dingzr2001.github.io)
 
 ### 🎨 My Status:
 
