@@ -19,12 +19,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
-This is the GitHub account that I use for daily studies and recording.
+This is the GitHub account that I use for daily studies and recording (i.e., labs and blogs).
 ### 👔 I am currently: 
 &nbsp;&nbsp;&nbsp;&nbsp;an undergraduate in the School of Computer Science, Huazhong University of Science and Technology (HUST)
 ### 📖 I am learning and working on:
-- Indexing and partitioning of databases(data lake)
-- Anomaly Detection of Storage Systems
+- Indexing and partitioning of databases
 ### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
