@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
 This is the GitHub account that I use for daily studies and recording (i.e., labs and blogs).
 ### 👔 I am currently: 
-&nbsp;&nbsp;&nbsp;&nbsp;an undergraduate in the School of Computer Science, Huazhong University of Science and Technology (HUST)
+&nbsp;&nbsp;&nbsp;&nbsp;an incoming student at Georgia Tech
 ### 📖 I am learning and working on:
 - Indexing and partitioning of databases
 ### 🧰 My daily learning and working involve:
