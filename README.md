@@ -28,16 +28,20 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-0072E3?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img alt="C#" src="https://img.shields.io/badge/-C#-9F35FF?style=flat-square&logo=csharp&logoColor=blue" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFDC35?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF8000?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF60AF" />
 </p>
 
 - <p>Framework:&nbsp;&nbsp;
-  <img alt="Gym" src="https://img.shields.io/badge/-Gym-FFBFFF?style=flat-square&logo=openaigym&logoColor=white" />
+  <img alt="Ray" src="https://img.shields.io/badge/-Ray-028CF0?style=flat-square&logo=ray&logoColor=white" />
+  <img alt="vLLM" src="https://img.shields.io/badge/-vLLM-028CF0?style=flat-square&logo=openaigym&logoColor=white" />
+  <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-B15BFF?style=flat-square&logo=Pytorch&logoColor=orange" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-4F4F4F?style=flat-square&logo=tensorflow&logoColor=FFA042" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-00A600?style=flat-square&logo=vuedotjs&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-react-#61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-ffffff?style=flat-square&logo=springboot&logoColor=green" />
 </p>
 
@@ -47,7 +51,8 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-ffffff?style=flat-square&logo=postgresql&logoColor=0072E3" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML-AFAF61?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS-FF9D6F?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Hexo" src="https://img.shields.io/badge/-Hexo-4A4AFF?style=flat-square&logo=hexo&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
 </p>
 
 ### 📠 Contact me: 
