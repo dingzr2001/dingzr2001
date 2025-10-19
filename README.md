@@ -28,7 +28,7 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-0072E3?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C#-9F35FF?style=flat-square&logo=csharp&logoColor=blue" />
+  <img alt="C#" src="https://img.shields.io/badge/-C\#-9F35FF?style=flat-square&logo=csharp&logoColor=blue" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFDC35?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF8000?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF60AF" />
@@ -41,7 +41,7 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
   <img alt="Pytorch" src="https://img.shields.io/badge/-Pytorch-B15BFF?style=flat-square&logo=Pytorch&logoColor=orange" />
   <img alt="Tensorflow" src="https://img.shields.io/badge/-Tensorflow-4F4F4F?style=flat-square&logo=tensorflow&logoColor=FFA042" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-00A600?style=flat-square&logo=vuedotjs&logoColor=white" />
-  <img alt="react" src="https://img.shields.io/badge/-react-#61DAFB?style=flat-square&logo=react&logoColor=white" />
+  <img alt="react" src="https://img.shields.io/badge/-react-61DAFB?style=flat-square&logo=react&logoColor=white" />
   <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-ffffff?style=flat-square&logo=springboot&logoColor=green" />
 </p>
 
