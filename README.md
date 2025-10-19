@@ -18,12 +18,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi!🏄Welcome to my space! I am Zhaorui Ding from China
+### Hi!🏄Welcome to my space! I am Zhaorui Ding
 This is the GitHub account that I use for daily studies and recording (i.e., labs and blogs).
 ### 👔 I am currently: 
-&nbsp;&nbsp;&nbsp;&nbsp;an incoming student at Georgia Tech
+&nbsp;&nbsp;&nbsp;&nbsp;an MSCS student at Georgia Tech
 ### 📖 I am learning and working on:
 - Indexing and partitioning of databases
+- Web development
+- AI platform
 ### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
