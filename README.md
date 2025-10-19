@@ -28,7 +28,7 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-0072E3?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="C#" src="https://img.shields.io/badge/-C\#-9F35FF?style=flat-square&logo=csharp&logoColor=blue" />
+  <img alt="C#" src="https://img.shields.io/badge/-Csharp-9F35FF?style=flat-square" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-FFDC35?style=flat-square&logo=python&logoColor=blue" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-FF8000?style=flat-square&logo=java&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=FF60AF" />
