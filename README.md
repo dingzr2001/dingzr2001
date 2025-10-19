@@ -26,6 +26,13 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - Indexing and partitioning of databases
 - Web development
 - AI platform
+### I was previously a:
+- SWE intern at Microsoft (Back end engineering for Bing Image)
+- SWE intern at Tencent (Back end & AI platform development for WeChat)
+- SWE intern at SLB (Back end & AI application development for Drillplan)
+- Research assistant at HUST (database indexing and partitioning)
+- Research assistant at NTY (KV store optimization)
+- Research intern at Shanghai AI Lab (AI applications)
 ### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
