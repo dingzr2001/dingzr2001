@@ -31,7 +31,7 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - SWE intern at Tencent (Back end & AI platform development for WeChat)
 - SWE intern at SLB (Back end & AI application development for Drillplan)
 - Research assistant at HUST (database indexing and partitioning)
-- Research assistant at NTY (KV store optimization)
+- Research assistant at NTU (KV store optimization)
 - Research intern at Shanghai AI Lab (AI applications)
 ### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
