@@ -26,13 +26,26 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 - Indexing and partitioning of databases
 - Web development
 - AI platform
-### I was previously a:
-- SWE intern at Microsoft (Back end engineering for Bing Image)
-- SWE intern at Tencent (Back end & AI platform development for WeChat)
-- SWE intern at SLB (Back end & AI application development for Drillplan)
-- Research assistant at HUST (database indexing and partitioning)
-- Research assistant at NTU (KV store optimization)
-- Research intern at Shanghai AI Lab (AI applications)
+### I worked at:
+<table align="center">
+<tr>
+<td>
+<img src=https://www.vectorlogo.zone/logos/linux/linux-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/apple/apple-tile.svg width=35>
+<img src='https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/1280px-SLB_Logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221025102909' width=35>
+<td>
+<img src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/python/python-icon.svg width=35>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg width=35>
+<td>
+<img src=https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/vim/vim-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/docker/docker-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg width=35>
+<img src=https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-icon.svg width=35>
+</tr>
+</table>
 ### 🧰 My daily learning and working involve:
 - <p>Programming language: &nbsp;&nbsp;
   <img alt="C" src="https://img.shields.io/badge/-C-45b8d8?style=flat-square&logo=c&logoColor=white" />
