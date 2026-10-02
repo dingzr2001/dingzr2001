@@ -30,9 +30,9 @@ This is the GitHub account that I use for daily studies and recording (i.e., lab
 <table align="center">
 <tr>
 <td>
-<img src=https://www.vectorlogo.zone/logos/linux/linux-icon.svg width=35>
-<img src=https://www.vectorlogo.zone/logos/apple/apple-tile.svg width=35>
-<img src='https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/1280px-SLB_Logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221025102909' width=35>
+<img src=https://en.wikipedia.org/wiki/Google_logo height=35>
+<img src=https://www.tencent.com/newsroom/media-resources/logos/ height=35>
+<img src='https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/SLB_Logo_2022.svg/1280px-SLB_Logo_2022.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail&_=20221025102909' height=35>
 <td>
 <img src=https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg width=35>
 <img src=https://www.vectorlogo.zone/logos/python/python-icon.svg width=35>
